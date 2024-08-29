@@ -8,4 +8,4 @@ def test_passing_case():
 def test_failing_case():
     # This test should fail as it will raise a TypeError when trying to concatenate int to str directly
     with pytest.raises(TypeError):
-        error_prog(10)
+        print (error_prog(10))
