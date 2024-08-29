@@ -10,3 +10,5 @@
 
 ![code_coverage](https://github.com/se2024-jpg/hw1-BeautifulRepo/blob/main/test_coverage.svg)
 
+[![codecov](https://codecov.io/gh/joeljogy/hw1-BeautifulRepo/graph/badge.svg?token=VOQKF3WR9O)](https://codecov.io/gh/joeljogy/hw1-BeautifulRepo)
+
