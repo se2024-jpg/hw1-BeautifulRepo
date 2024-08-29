@@ -23,11 +23,7 @@ jobs:
       run: |
         coverage run -m pytest
 
-    - name: Add coverage badge
-      run: |
-        coverage-badge -o coverage.svg
-
-    # - name: Upload coverage to Codecov
-    #   run: bash <(curl -s https://codecov.io/bash)
-    #   env:
-    #     CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
+    - name: Upload coverage to Codecov
+      run: bash <(curl -s https://codecov.io/bash)
+      env:
+        CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
