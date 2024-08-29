@@ -3,6 +3,13 @@ name: Run tests and upload coverage
 on: 
   push
 
+permissions:
+  contents: write
+  checks: write
+  actions: write
+  deployments: write
+
+
 jobs:
   test:
     name: Run tests and collect coverage
@@ -26,3 +33,4 @@ jobs:
         uses: codecov/codecov-action@v4
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
+
