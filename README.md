@@ -8,7 +8,7 @@
 
 ![Test_Badge](https://github.com/se2024-jpg/hw1-BeautifulRepo/actions/workflows/python-app.yml/badge.svg)
 
-[comment]:[![codecov](https://codecov.io/github/joeljogy/hw1-BeautifulRepo/graph/badge.svg?token=VOQKF3WR9O)](https://codecov.io/github/joeljogy/hw1-BeautifulRepo)
+[![codecov](https://codecov.io/github/joeljogy/hw1-BeautifulRepo/graph/badge.svg?token=VOQKF3WR9O)](https://codecov.io/github/joeljogy/hw1-BeautifulRepo)
 
 ![code_coverage](https://github.com/se2024-jpg/hw1-BeautifulRepo/blob/main/test_coverage.svg)
 
