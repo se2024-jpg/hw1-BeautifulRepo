@@ -97,7 +97,7 @@ def get_badge(total, color=DEFAULT_COLOR):
     Read the SVG template from the package, update total, return SVG as a
     string.
     """
-    template_path = os.path.join('templates', 'flat.svg')
+    template_path = 'flat.svg'
     template = pkg_resources.resource_string(__name__, template_path).decode('utf8')
     return template.replace('{{ total }}', total).replace('{{ color }}', color)
 
