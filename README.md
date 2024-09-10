@@ -1,5 +1,5 @@
-![Python Badge](https://img.shields.io/badge/Language-Python-blue?style=flat&logo=python)
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python Badge](https://img.shields.io/badge/Language-Python-blue?style=flat&logo=python)
 ![Linux Badge](https://img.shields.io/badge/Platform-Linux-green?style=flat&logo=linux)
 ![Test_Badge](https://github.com/se2024-jpg/hw1-BeautifulRepo/actions/workflows/python-app.yml/badge.svg)
 ![Code_coverage](https://github.com/se2024-jpg/hw1-BeautifulRepo/blob/main/test_coverage.svg)
@@ -18,4 +18,4 @@ This repository demonstrates a simple Python project for error simulation, unit 
 # Contributors
 - Girish G N (ggopala4)
 - Joel Jogy George (jjgeorg2)
-- Pravallika Vasireddy (prav29)
+- Pravallika Vasireddy (pvasire2)
