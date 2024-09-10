@@ -16,6 +16,6 @@ This repository demonstrates a simple Python project for error simulation, unit 
 - **Badges:** Project metadata such as Python version, license, and test status displayed through badges.
 
 # Contributors
-- Girish G N
-- Joel Jogy George
-- Pravallika Vasireddy
+- Girish G N (ggopala4)
+- Joel Jogy George (jjgeorg2)
+- Pravallika Vasireddy (prav29)
