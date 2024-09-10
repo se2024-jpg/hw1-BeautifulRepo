@@ -1,8 +1,8 @@
-![Python](http://forthebadge.com/images/badges/made-with-python.svg)
+![Python Badge](https://img.shields.io/badge/Language-Python-blue?style=flat&logo=python)
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Linux Badge](https://img.shields.io/badge/Platform-Linux-green?style=flat&logo=linux)
 ![Test_Badge](https://github.com/se2024-jpg/hw1-BeautifulRepo/actions/workflows/python-app.yml/badge.svg)
-![code_coverage](https://github.com/se2024-jpg/hw1-BeautifulRepo/blob/main/test_coverage.svg)
+![Code_coverage](https://github.com/se2024-jpg/hw1-BeautifulRepo/blob/main/test_coverage.svg)
 
 # hw1-BeautifulRepo
 This repository demonstrates a simple Python project for error simulation, unit testing with `pytest`, and automated testing using GitHub Actions. The project showcases how to handle intentional errors and run automated tests for code validation.
