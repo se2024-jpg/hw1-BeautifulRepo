@@ -15,7 +15,7 @@ This repository demonstrates a simple Python project for error simulation, unit 
 - **Code Management:** Includes a `.gitignore` for Python and Visual Studio projects.
 - **Badges:** Project metadata such as Python version, license, and test status displayed through badges.
 
-# Contributors
+## Contributors
 - Girish G N (ggopala4)
 - Joel Jogy George (jjgeorg2)
 - Pravallika Vasireddy (pvasire2)
