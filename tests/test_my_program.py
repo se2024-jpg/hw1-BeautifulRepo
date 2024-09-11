@@ -14,5 +14,6 @@ def test_passing_case():
 
 def test_failing_case():
     # This will fail due to type error when concatenating an int with strings
-    with pytest.raises(TypeError):  # Expecting a TypeError
-        error_prog(10)
+    error_prog(10)
+    #with pytest.raises(TypeError):  # Expecting a TypeError
+        #error_prog(10)
